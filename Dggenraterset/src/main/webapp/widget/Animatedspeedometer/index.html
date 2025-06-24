@@ -1,0 +1,18 @@
+<!--
+	*index.html
+	*author: Manivannan R
+	*project: Speedometer
+-->
+<html>
+<head>
+<link href="css/speedometer.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<input type="hidden" id="myValues" value="100" />
+</body>
+<script src="js/jquery.js"></script>
+<script src="js/speedometer.js"></script>
+<script type="text/javascript">
+	$("#myValues").myfunc({divFact:10}).changePosition();
+</script>
+</html>

@@ -1,0 +1,17 @@
+body {margin:0px;padding:0px;}
+.cnew {font-weight: normal; font-size: 12px; font-family: "Courier New", "Courier";}
+.tah {font-weight: normal; font-size: 12px; font-family: Tahoma, Verdana;}
+.l_fatal {color: red;font-weight: normal; font-size: 12px; font-family: "Courier New", "Courier";}
+.l_error {color: red;font-weight: normal; font-size: 12px; font-family: "Courier New", "Courier";}
+.l_warn {color:red;font-weight: normal; font-size: 12px; font-family: "Courier New", "Courier";}
+.l_info {color: green;font-weight: normal; font-size: 12px; font-family: "Courier New", "Courier";}
+.l_debug {color: blue;font-weight: normal; font-size: 12px; font-family: "Courier New", "Courier";}
+.l_trace {color: black;font-weight: normal; font-size: 12px; font-family: "Courier New", "Courier";}
+.mbt {width: 172px;}
+table.mt {border-width: 1px;border-spacing:0px ;border-style: solid;border-color: #cfcfcf;border-collapse: collapse;background-color: transparent;}
+table.mt th {border-width: 1px;padding: 3px;border-style: solid;border-color: #cfcfcf;white-space: nowrap; background-color: #afafaf;text-align:left;}
+table.mt td {border-width: 1px;padding: 3px;border-style: solid;border-color: #cfcfcf;text-align: left;vertical-align:bottom;}
+#crc {width:100%;height:25px;margin:0px;padding:0px;background-color: #cfcfcf;}
+#crl,#crr {line-height: 25px;}
+#crl {float:left;font-weight: bold;margin-left:10px;}
+#crr {float:right;margin-right:10px;}
